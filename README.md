@@ -1,0 +1,2 @@
+# RAbbitmq Pub/Sub
+Instance
